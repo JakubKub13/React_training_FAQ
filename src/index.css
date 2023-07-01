@@ -1,0 +1,16 @@
+body {
+    background-color: #141414;
+    margin: 0px;
+}
+
+#result {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.all-questions {
+     color: #e5e5e5;
+}
